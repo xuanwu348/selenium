@@ -1,3 +1,4 @@
 Python 3.4.2
 selenium 3.8.1
 Chrome 49.0.2623.112
+ChromeDriver 2.20.353145
